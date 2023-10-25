@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/F5BN30G/fondo1.jpg)
+![Logo](https://i.ibb.co/23ZJHYZ/Desarrollador-Web-Profesional.png")
 
 
 # Hola mundo! Soy Jonathan
@@ -30,3 +30,42 @@ Herramientas con las que trabajo para diseños y desarrollo personales y empresa
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+## Proyectos de Desarrollo Web
+
+¡Bienvenido a mi espacio de proyectos de desarrollo web! En esta sección, encontrarás una recopilación de los proyectos que he creado y desarrollado en el campo del desarrollo web.
+
+
+### ¿Cómo explorar estos proyectos?
+
+Cada proyecto listado a continuación viene con su enlace a la demo de dicha página. Sientete libre de explorar cada una de ellas.
+
+
+
+
+#### Venta de snacks artesanales
+
+![App Screenshot](https://i.ibb.co/nzYP3Hv/chifle.png)
+
+[Visita la página aquí...](https://donchifleec.000webhostapp.com/)
+
+#### Panadería
+![App Screenshot](https://i.ibb.co/jMxq0Lb/panaderia2.png)
+
+[Visita la página aquí...](https://panaderiareinadelcisne.000webhostapp.com/)
+
+
+#### Servicio técnico 
+
+![App Screenshot](https://i.ibb.co/vxXn5RP/serviciotecnico2.png)
+
+[Visita la página aquí...](https://tecnicojosue.000webhostapp.com/)
+
+---
+
+**Nota:** Esta sección se actualizará  con mis últimos proyectos de desarrollo, así que asegúrate de volver pronto para descubrir nuevas creaciones y desarrollos.
+
+## ¡Gracias por tu visita! 😊
+
+
+
+
